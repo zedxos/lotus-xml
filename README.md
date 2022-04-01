@@ -11,9 +11,9 @@
 
 ### **🔍 My Skills 🔍**
 
-- I am a skilled OSINT analyst
-- I am a pedo hunter
-- I know HTML, PHP, Python, and basic Javascript
+- I am a skilled OSINT analyst.
+- I am a pedo hunter.
+- I know HTML, PHP, Python, and basic Javascript.
 - I am able to find, and identify basic website security issues (XSS, SQL injection, and information leakage).
 
 ---
