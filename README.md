@@ -4,7 +4,7 @@
 
 ### **👁️ Profile 👁️**
 
-[![](https://gpvc.arturio.dev/Lotus-xml?style=for-the-badge)](https://github.com/Lotus-xml/)
+[![](https://komarev.com/ghpvc/?username=Lotus-xml&style=for-the-badge)](https://github.com/Lotus-xml/)
 [![Github Follow](https://img.shields.io/github/followers/Lotus-xml?style=for-the-badge)](https://github.com/Lotus-xml/)
 
 ---
