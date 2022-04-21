@@ -1,4 +1,4 @@
-#### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231B790D&size=29&lines=Lotus-xml+)](https://github.com/Lotus-xml/)
+#### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231B790D&size=30&lines=Lotus-xml+)](https://github.com/Lotus-xml/)
 
 ---
 
