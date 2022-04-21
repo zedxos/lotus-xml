@@ -5,7 +5,7 @@
 ### **👁️ Profile 👁️**
 
 [![](https://komarev.com/ghpvc/?username=Lotus-xml&style=for-the-badge)](https://github.com/Lotus-xml/)
-[![Github Follow](https://img.shields.io/github/followers/Lotus-xml?style=for-the-badge)](https://github.com/Lotus-xml/)
+[![](https://img.shields.io/github/followers/Lotus-xml?style=for-the-badge)](https://github.com/Lotus-xml/)
 
 ---
 
@@ -32,11 +32,11 @@
 
 ### **💬 Socials 💬**
 
-- [Personal Instagram](https://www.instagram.com/lotus.pyc/)
-- [Twitter](https://twitter.com/mast3rc1002/)
-- [Keybase](https://keybase.io/lotus_xyz/)
-- [Karma's Instagram](https://www.instagram.com/karma.ngo_/)
-- [Karma's Skidbin](https://skidbin.net/user/KarmaNGO/)
+- **[Personal Instagram](https://www.instagram.com/lotus.pyc/)**
+- **[Twitter](https://twitter.com/mast3rc1002/)**
+- **[Keybase](https://keybase.io/lotus_xyz/)**
+- **[Karma's Instagram](https://www.instagram.com/karma.ngo_/)**
+- **[Karma's Skidbin](https://skidbin.net/user/KarmaNGO/)**
 
 ---
 
